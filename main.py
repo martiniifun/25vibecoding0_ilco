@@ -15,10 +15,10 @@ with st.sidebar:
     st.title("📬 Contact")
     st.markdown(
         """
-        - ✉️ **Email**: you@example.com  
-        - 🐙 **GitHub**: [github.com/you](https://github.com/you)  
-        - 💼 **LinkedIn**: [linkedin.com/in/you](https://linkedin.com/in/you)  
-        - 📝 **Blog**: [nomadlog.dev](https://nomadlog.dev)  
+        - ✉️ **Email**: martinii.fun@gmail.com
+        - 🐙 **GitHub**: [github.com/you](https://github.com/martiniifun)  
+        - 💼 **LinkedIn**: [linkedin.com/in/martinii](https://linkedin.com/in/martinii)  
+        - 📝 **Blog**: [pyhwpx.com](https://pyhwpx.com)  
         """
     )
 
@@ -45,7 +45,7 @@ with col2:
     st.write(
         """
         클라우드와 커피를 사랑하는 **프로그래머 & 디지털 노마드 (지망생)**.  
-        글로벌 팀과 협업하며 **DevOps, 데이터 엔지니어링, AI 서비스**를 구축해왔어.  
+        비글로벌 팀과 협업하며 **DevOps, 데이터 엔지니어링, AI 서비스**를 구축해왔어.  
         내가 뛰어든 문제는 늘 **'자동화'와 '확장성'**으로 해결하지! 🔧🔥
         """
     )
